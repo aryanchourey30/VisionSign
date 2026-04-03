@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE / OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# Generated outputs
+training_plot.png
+confusion_matrix.png
